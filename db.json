@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Concerto in Piazza Duomo",
+      "image": "https://picsum.photos/id/111/500/500",
+      "date": "2024-03-15",
+      "place": "L'Aquila",
+      "description": "Un'esperienza unica di musica live in uno dei luoghi più suggestivi de L'Aquila. Artisti di fama internazionale si esibiranno in una serata indimenticabile."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Festival Musicale Pescara",
+      "image": "https://picsum.photos/id/211/500/500",
+      "date": "2024-05-10",
+      "place": "Pescara",
+      "description": "Il festival accoglie talenti emergenti e band affermate per una celebrazione della musica senza precedenti sulla riviera di Pescara."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Spettacolo di Danza",
+      "image": "https://picsum.photos/id/311/500/500",
+      "date": "2024-07-12",
+      "place": "Teramo",
+      "description": "Una fusione di danza classica e contemporanea, dove la coreografia incontra la narrativa visiva in uno spettacolo mozzafiato."
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Mostra di Scultura",
+      "image": "https://picsum.photos/id/411/500/500",
+      "date": "2024-09-05",
+      "place": "Chieti",
+      "description": "Scopri le opere di scultori innovativi in una mostra che esplora nuove forme e materiali, riflettendo sul significato dello spazio."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "name": "Mostra d'Arte Moderna",
+      "image": "https://picsum.photos/id/511/500/500",
+      "date": "2024-04-20",
+      "place": "L'Aquila",
+      "description": "Arte moderna che sfida i confini, presentando opere che dialogano con il presente in una delle gallerie più avanguardiste de L'Aquila."
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "name": "Mostra Fotografica",
+      "image": "https://picsum.photos/id/611/500/500",
+      "date": "2024-06-25",
+      "place": "Pescara",
+      "description": "Una collezione di momenti catturati che raccontano storie senza tempo. La mostra fotografa la bellezza nelle sue molteplici sfaccettature."
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "name": "Concerto Jazz",
+      "image": "https://picsum.photos/id/661/500/500",
+      "date": "2024-08-30",
+      "place": "Teramo",
+      "description": "Vivi le vibrazioni del jazz in una serata dove la musica si intreccia con l'anima, portando gli spettatori in un viaggio melodico unico."
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "name": "Esibizione di Pittura",
+      "image": "https://picsum.photos/id/811/500/500",
+      "date": "2024-10-18",
+      "place": "Chieti",
+      "description": "Artisti pittori del panorama contemporaneo espongono le loro visioni, trasformando la tela in un campo di espressione illimitata."
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "name": "Concerto Rock",
+      "image": "https://picsum.photos/id/911/500/500",
+      "date": "2024-11-20",
+      "place": "L'Aquila",
+      "description": "Energia pura e sound potente in una notte che celebra il rock in tutte le sue forme. Preparati a un'esperienza sonora indimenticabile."
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "name": "Spettacolo Teatrale",
+      "image": "https://picsum.photos/id/420/500/500",
+      "date": "2024-12-05",
+      "place": "Pescara",
+      "description": "Un viaggio emozionale attraverso la recitazione che cattura l'essenza dell'esperienza umana, portando alla luce storie che parlano all'anima."
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "place": "test",
+      "date": "2024-03-01",
+      "image": "https://picsum.photos/id/816/500/500",
+      "userId": 2,
+      "id": 11
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 1,
+      "name": "Festival Musicale Pescara",
+      "image": "https://picsum.photos/id/211/500/500",
+      "date": "2024-05-10",
+      "place": "Pescara",
+      "description": "Il festival accoglie talenti emergenti e band affermate per una celebrazione della musica senza precedenti sulla riviera di Pescara.",
+      "favoriteUserId": 3,
+      "eventId": 2,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "name": "Mostra Fotografica",
+      "image": "https://picsum.photos/id/611/500/500",
+      "date": "2024-06-25",
+      "place": "Pescara",
+      "description": "Una collezione di momenti catturati che raccontano storie senza tempo. La mostra fotografa la bellezza nelle sue molteplici sfaccettature.",
+      "favoriteUserId": 3,
+      "eventId": 6,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "name": "Festival Musicale Pescara",
+      "image": "https://picsum.photos/id/211/500/500",
+      "date": "2024-05-10",
+      "place": "Pescara",
+      "description": "Il festival accoglie talenti emergenti e band affermate per una celebrazione della musica senza precedenti sulla riviera di Pescara.",
+      "favoriteUserId": 2,
+      "eventId": 2,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "name": "Spettacolo di Danza",
+      "image": "https://picsum.photos/id/311/500/500",
+      "date": "2024-07-12",
+      "place": "Teramo",
+      "description": "Una fusione di danza classica e contemporanea, dove la coreografia incontra la narrativa visiva in uno spettacolo mozzafiato.",
+      "favoriteUserId": 2,
+      "eventId": 3,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "name": "Concerto in Piazza Duomo",
+      "image": "https://picsum.photos/id/111/500/500",
+      "date": "2024-03-15",
+      "place": "L'Aquila",
+      "description": "Un'esperienza unica di musica live in uno dei luoghi più suggestivi de L'Aquila. Artisti di fama internazionale si esibiranno in una serata indimenticabile.",
+      "favoriteUserId": 1,
+      "eventId": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "name": "Festival Musicale Pescara",
+      "image": "https://picsum.photos/id/211/500/500",
+      "date": "2024-05-10",
+      "place": "Pescara",
+      "description": "Il festival accoglie talenti emergenti e band affermate per una celebrazione della musica senza precedenti sulla riviera di Pescara.",
+      "favoriteUserId": 1,
+      "eventId": 2,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "davide.polimeno87@gmail.com",
+      "password": "$2a$10$BNdzohrt3TpnGEAp5UJsUuesUeCMUUJy0wWgLBnVZRz1Kh/FtPYH2",
+      "id": 1
+    },
+    {
+      "email": "test@test.test",
+      "password": "$2a$10$Xh0hJor6U0ymRhcXwQ2OKu7WOm5pkWr9/tinVLCynYPedXCjLwyM.",
+      "id": 2
+    },
+    {
+      "email": "test2@test2.test2",
+      "password": "$2a$10$WIhip7ADXWvjAQkgsK78cu4BW5PUhvFxg/AKyj3jynvs9tIh058Ri",
+      "id": 3
+    }
+  ]
+}
